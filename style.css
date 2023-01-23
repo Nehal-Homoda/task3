@@ -1,0 +1,23 @@
+.a{
+    top:105px;
+    left:170px;
+    position:absolute
+}
+.b{
+    top:60px;
+    left:210px;
+    position:absolute
+}
+.c{
+    top:60px;
+    left:155px;
+    position:absolute
+}
+.math{
+    top:185px;
+    left:25px;
+    color: red;
+    position:absolute;
+    font-size: 30px;
+}
+

@@ -1,0 +1,1 @@
+draw(context,point1,point2,point3,"red");
